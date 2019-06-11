@@ -1,6 +1,6 @@
 import {handleActions} from 'redux-actions';
 import R from 'ramda';
-import * as types './types';
+import * as types from './types';
 
 import {mergeIn} from '../../utils/stateHelpers';
 
